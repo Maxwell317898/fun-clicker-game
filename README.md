@@ -1,6 +1,6 @@
 # fun-clicker-game
 a fun clicker game made in swift made for macos
-## this is the main branch this version is version 1.1
+## this is the main branch this version is version 1.2 (newest)
 how to use 
 1. click on code
 2. select the option for download zip
