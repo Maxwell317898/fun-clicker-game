@@ -6,3 +6,4 @@ how to use
 2. select the option for download zip
 3. open the zip github just gave you (ignore the Readme.md and the licence thing)
 4. if you are on mac or are runing macos then you hopefully can just open the zip called fun clicker game
+# currantly fixing install thing do not download
